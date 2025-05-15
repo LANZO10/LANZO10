@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LANZO10
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++/HTML/CSS/PYTHON
 - 💞️ I’m looking to collaborate on learning more Coding skills 
 - 📫 How to reach me celanopadayachee976@gmail.com
 - ⚡ Fun fact: I am a soccer fanatic
